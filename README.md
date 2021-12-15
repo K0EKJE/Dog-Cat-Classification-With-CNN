@@ -12,3 +12,5 @@ and VGG16 and MobileNetV2 with transfer learning
 
 
 <img src="cat.9996.jpg" style="width:300px;height:300px;">  <img src="12498.jpg" style="width:350px;height:300px;"> 
+
+Example images from the training and testing set
