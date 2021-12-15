@@ -15,3 +15,5 @@ Due to computation resource limit, I apply VGG16 and MobileNetV2 with transfer l
 <img src="cat.9996.jpg" style="width:300px;height:300px;">  <img src="12498.jpg" style="width:350px;height:300px;"> 
 
 Example images from the training and testing set
+
+As a result, the MobileNetV2 shows the fastest learning speed, with a final accuracy of around 0.985. The augmented customized CNN model had approximately same running time as VGG16, while the former achieves a highest accuracy of around 0.9, and the latter had an accuracy of around 0.98. It is clear that 1) data augmentation largely regularized the model. By comparison, the accuracy with and without data augmentation is around 0.8 and 0.9, a hugh difference. 2) in the cat-dog classifcation case, with our specified seed, both the running speed and the accuracy of MobileNetV2 outperforms VGG16. 
