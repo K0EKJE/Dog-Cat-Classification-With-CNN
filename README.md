@@ -4,7 +4,7 @@ This is a dog &amp; cat classifying project
  - Data used is from https://www.kaggle.com/c/dogs-vs-cats/data
 
 In this project, I builded four models: 
- - two customized CNN models with three conv-pool structured layers and an output section(one trained on augmented data and the other trained on raw data; both similar to the structure shown below)
+ - Two customized CNN models with three conv-pool structured layers and an output section(one trained on augmented data and the other trained on raw data; both similar to the structure shown below)
  - VGG16 
  - MobileNetV2 
 
