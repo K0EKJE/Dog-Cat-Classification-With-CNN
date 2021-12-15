@@ -5,7 +5,7 @@ This is a dog &amp; cat classifying project
 
 In this project, I builded four models: two customized CNN models with three conv-pool structured layers and an output section(one trained on augmented data and the other trained on raw data), VGG16 and MobileNetV2. 
 
-Due to computation 
+Due to computation resource limit, I apply VGG16 and MobileNetV2 with transfer learning. 
 
 <img src="CNN-structure.png" style="width:1000px;height:220px;">
 
