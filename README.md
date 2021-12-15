@@ -9,6 +9,6 @@ I will be using a customized CNN model and VGG16 and MobileNetV2 with transfer l
 
 
 
-<img src="cat.9996.jpg" style="width:300px;height:250px;">  <img src="12498.jpg" style="width:300px;height:250px;">
+<img src="cat.9996.jpg" style="width:250px;height:250px;">  <img src="12498.jpg" style="width:300px;height:250px;"> <img src="cat.9267.jpg" style="width:300px;height:250px;"> 
 
 
