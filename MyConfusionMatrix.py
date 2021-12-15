@@ -1,7 +1,11 @@
 from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 
 def my_confusion_matrix(model):
+    '''
+    This function creates a confusion matrix to visualize result on validation set.
     
+    model - the model used for prediction
+    '''
     predict = model.predict_generator(validation_generator,
                                       steps=np.ceil(val_set.shape[0] / 64))
 
