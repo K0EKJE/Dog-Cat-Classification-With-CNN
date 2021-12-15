@@ -10,6 +10,4 @@ and VGG16 and MobileNetV2 with transfer learning
 (Image URL: https://www.researchgate.net/figure/Illustration-of-typical-CNN-structure_fig3_332611193)
 
 
-<img src="cat.9996.jpg" style="width:250px;height:250px;">  <img src="12498.jpg" style="width:300px;height:250px;"> <img src="cat.9267.jpg" style="width:300px;height:250px;"> 
-
-
+<img src="cat.9996.jpg" style="width:300px;height:300px;">  <img src="12498.jpg" style="width:350px;height:300px;"> 
